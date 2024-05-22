@@ -1,0 +1,12 @@
+in_file = in.lammps
+start_step = 0
+end_step = 100000
+stepwidth = 10000
+cutoff = 5
+small_mol = 10
+runnames = heat
+runnames = carb
+cycles = 10
+cycles = 48
+temp_incr = 250
+temp_incr = 250
